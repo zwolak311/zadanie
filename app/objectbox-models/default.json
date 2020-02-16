@@ -1,0 +1,58 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "3:1404459867495090216",
+      "lastPropertyId": "4:561872664154156162",
+      "name": "WeatherModel",
+      "properties": [
+        {
+          "id": "1:2385210373614440383",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2264714162219184671",
+          "name": "temperature",
+          "type": 8,
+          "flags": 4
+        },
+        {
+          "id": "3:6292266682108651904",
+          "name": "date",
+          "type": 6,
+          "flags": 2
+        },
+        {
+          "id": "4:561872664154156162",
+          "name": "locationName",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "3:1404459867495090216",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    875243562872006815,
+    8617801398070222187
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    2592907234709123127,
+    705704745307154322,
+    294482883843699878,
+    1375544848212093798,
+    3118327777104149452
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
